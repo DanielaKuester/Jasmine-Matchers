@@ -132,7 +132,8 @@
       "no-array-constructor": 0,
       "no-new-object": 0,
       "no-new-wrappers": 0,
-      "unicorn/filename-case": 0
+      "unicorn/filename-case": 0,
+      "unicorn/new-for-builtins": 0
     },
     "space": 2
   }
